@@ -1,4 +1,6 @@
-<h1> It's My Project Made Java OO 🏦💱 </h1>
+<h1> It's My Program Made Java OO 🏦💱 
+<br><br>Java program that reads the user’s name, account number, and initial deposit (if any), and allows the user to deposit or withdraw money from their account with a fixed fee of $5:
+</h1>
 <h2>Example 01 </h2>
 
 ![Exm1](https://github.com/Kaique-Parente/BankAccountRegistration/assets/81454096/39bffbc2-7454-413d-9e12-97ea053877d5)
