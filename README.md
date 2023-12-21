@@ -1,4 +1,4 @@
-<h1> It's My Program Made Java OO 🏦💱 
+<h1> It's Program Made Java OO 🏦💱 
 <br><br>Java program that reads the user’s name, account number, and initial deposit (if any), and allows the user to deposit or withdraw money from their account with a fixed fee of $5:
 </h1>
 <h2>Example 01 </h2>
